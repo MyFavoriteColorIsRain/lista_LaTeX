@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}wprowadzenie}{1}{}%
+\contentsline {section}{\numberline {2}rozwiniecie}{1}{}%
+\contentsline {section}{\numberline {3}wnioski}{1}{}%
+\contentsline {subsection}{\numberline {3.1}przemyslenia}{2}{}%

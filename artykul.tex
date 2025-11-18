@@ -1,0 +1,41 @@
+\documentclass[12pt,a4paper,twoside]{article}
+
+\usepackage{polski}
+\usepackage[utf8x]{inputenc}
+\usepackage[OT4]{fontenc}
+
+\title{Artykuł}
+\author{Kacper Blicharski}
+\date{2025.11.18}
+
+
+\usepackage[a4paper,
+            inner=3cm,
+            outer=1cm,
+            top=1cm,
+            bottom=1.6cm]{geometry}
+
+
+\usepackage{multicol}
+
+\linespread{1}
+\usepackage{enumitem}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+
+\begin{multicols}{2}
+
+\input{rozdzial1.tex}
+\input{rozdzial2.tex}
+\input{rozdzial3.tex}
+
+\end{multicols}
+
+
+\end{document}
+
